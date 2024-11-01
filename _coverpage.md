@@ -1,4 +1,4 @@
-![logo](media/logo.png)
+![logo](media/logoCitrus.png)
 
 # Base de connaissances
 
