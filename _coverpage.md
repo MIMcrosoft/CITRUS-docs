@@ -1,5 +1,4 @@
-![logo](media/logoCitrus.png)
-<img src="media/logoCitrus.png" alt="logo" width="35%"/>
+<img src="media/logoCitrus.png" alt="logo" style="width:500px; max-width:80%"/>
 
 # Base de connaissances
 
@@ -7,4 +6,4 @@
 
 Plateforme par Félix Robillard et Raphaël Dumont
 
-[C'est parti!](.content)
+[C'est parti!](#Citrus)
