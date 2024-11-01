@@ -6,4 +6,4 @@
 
 Plateforme par Félix Robillard et Raphaël Dumont
 
-[C'est parti!](#docsify)
+[C'est parti!](.content)
