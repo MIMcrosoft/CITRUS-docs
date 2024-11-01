@@ -1,4 +1,4 @@
-# docsify-template
+# docsify-template - CITRUS
 A template to create an empty documentation guide using the Docsify.js library
 ## Step 1 : Use as template
 From your Github interface, click the green **Use this template** button, then **Create a new repository**. Name it and press **Create repository**
